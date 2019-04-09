@@ -9,10 +9,10 @@ I am currently a sophomore at the University of Washington, looking to major in 
 
 *My Favorite Foods in No Particular Order*
 
--fettuccine alfredo
--chocolate covered acai berries
--pizookie
--white cheddar cheetos
+-fettuccine alfredo  
+-chocolate covered acai berries  
+-pizookie  
+-white cheddar cheetos  
 
 > No one can make you feel inferior without your consent.
 > -Eleanor Roosevelt
